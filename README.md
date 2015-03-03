@@ -8,3 +8,10 @@
 <a href="http://nbviewer.ipython.org/github/crocha700/qg_vertical_modes/blob/master/eady_problem/linear_eady_galerk.ipynb">The Eady problem</a>
 
 <a href="http://nbviewer.ipython.org/github/crocha700/qg_vertical_modes/blob/master/beta_eady_problem/beta_eady_galerk.ipynb">The Beta-Eady problem</a>
+
+<p>An elementary example of a Galerkin approximation is available at</p>
+<a href="http://nbviewer.ipython.org/github/crocha700/qg_vertical_modes/blob/master/elementary_example/elementary_example.ipynb">Elementary example</a>
+
+
+
+
