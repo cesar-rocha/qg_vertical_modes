@@ -9,7 +9,7 @@
 
 <a href="http://nbviewer.ipython.org/github/crocha700/qg_vertical_modes/blob/master/beta_eady_problem/beta_eady_galerk.ipynb">The Beta-Eady problem</a>
 
-<p>An elementary example of a Galerkin approximation is available at</p>
+<p>An elementary example of Galerkin approximation is available at</p>
 <a href="http://nbviewer.ipython.org/github/crocha700/qg_vertical_modes/blob/master/elementary_example/elementary_example.ipynb">Elementary example</a>
 
 
