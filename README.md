@@ -7,7 +7,7 @@
 
 <a href="http://nbviewer.ipython.org/github/crocha700/qg_vertical_modes/blob/master/eady_problem/linear_eady_galerk.ipynb">The Eady problem</a>
 
-<a href="http://nbviewer.ipython.org/github/crocha700/qg_vertical_modes/blob/master/eady_base_state_pv.ipynb">The Eady problem: the base state</a>
+<a href="http://nbviewer.ipython.org/github/crocha700/qg_vertical_modes/blob/master/eady_problem/eady_base_state_pv.ipynb">The Eady problem: the base state</a>
 
 <a href="http://nbviewer.ipython.org/github/crocha700/qg_vertical_modes/blob/master/beta_eady_problem/beta_eady_galerk.ipynb">The Beta-Eady problem</a>
 
