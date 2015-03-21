@@ -11,6 +11,11 @@
 
 <a href="http://nbviewer.ipython.org/github/crocha700/qg_vertical_modes/blob/master/beta_eady_problem/beta_eady_galerk.ipynb">The Beta-Eady problem</a>
 
+<p>The plots of unstable wave structure is available at</p>
+<a href="http://nbviewer.ipython.org/github/crocha700/qg_vertical_modes/blob/master/eady_problem/wave_structure.ipynb">Approximation A spurius unstable mode</a>
+
+<a href="http://nbviewer.ipython.org/github/crocha700/qg_vertical_modes/blob/master/beta_eady_problem/wave_structure_fd.ipynb">Charney-mode wave</a>
+
 <p>An elementary example of Galerkin approximation is available at</p>
 <a href="http://nbviewer.ipython.org/github/crocha700/qg_vertical_modes/blob/master/elementary_example/elementary_example.ipynb">Elementary example</a>
 
