@@ -5,5 +5,5 @@
 
 <p>If you have trouble installing numba, just comment out the lines with @numba.jjit. This is a simple decorator to speed up the code.</p>
 
-<p>If you have any questions please contact Cesar B. Rocha <crocha@ucsd.edu>. You are also encouraged to contact Rocha if you find a mistake (or even better you could submit a pull request)</p>
+<p>If you have any questions please contact Cesar B. Rocha (crocha@ucsd.edu). You are also encouraged to contact Rocha if you find a mistake (or even better you could submit a pull request)</p>
 
