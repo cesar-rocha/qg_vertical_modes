@@ -1,6 +1,6 @@
 # QG vertical modes
 
-The following JuPyter notebooks contain details about the calculations and provide the codes used in Rocha, Young, and Grooms (submitted to JPO). Here is a [preprint](http://crocha700.github.io/pdfs/galerkin_qg_submitted_twocols.pdf). An index  notebook is available <a href="http://nbviewer.ipython.org/github/crocha700/qg_vertical_modes/blob/master/index.ipynb">here</a>.
+The following JuPyter notebooks contain details about the calculations and provide the codes used in Rocha, Young, and Grooms (in press, JPO). Here is a [preprint](http://crocha700.github.io/pdfs/galerkin_qg_submitted_twocols.pdf). An index  notebook is available <a href="http://nbviewer.ipython.org/github/crocha700/qg_vertical_modes/blob/master/index.ipynb">here</a>.
 
 <p>Even if you do not have python installed on your computer, you can still reproduce our results. The simplest way is to open a free <a href="https://wakari.io" target="_new">Wakari</a> account, and run our notebooks in the cloud.</p>
 
